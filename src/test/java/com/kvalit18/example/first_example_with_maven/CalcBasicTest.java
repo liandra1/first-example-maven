@@ -6,8 +6,8 @@ import java.util.Random;
 
 import org.junit.Test;
 
-public class CalculatorTest {
-	Calculator myCalculator = new Calculator();
+public class CalcBasicTest {
+	CalcBasic myCalculator = new CalcBasic();
 
 	
 	@Test
